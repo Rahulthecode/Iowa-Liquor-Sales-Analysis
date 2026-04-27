@@ -1,3 +1,5 @@
+![Dashboard](dashboard_screenshot.png)
+
 # 🥃 Iowa Liquor Sales Analysis
 
 ## 📌 Project Overview
